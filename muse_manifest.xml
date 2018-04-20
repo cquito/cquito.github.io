@@ -1,0 +1,248 @@
+<manifest alg="2" build="10" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1422143746638">
+  <folder name="css">
+    <file name="site_global.css" crc="3906901611"/>
+    <file name="master_a-master.css" crc="514630793" ref="2010:2013:video:gallery:photographs:pedigree:2012:attributes:contact:index:2011:winnings:2014:offspring"/>
+    <file name="2010.css" crc="3832224069" ref="2010"/>
+    <file name="2013.css" crc="272512166" ref="2013"/>
+    <file name="video.css" crc="4116601488" ref="video"/>
+    <file name="gallery.css" crc="4203059729" ref="gallery"/>
+    <file name="photographs.css" crc="282462695" ref="photographs"/>
+    <file name="pedigree.css" crc="4167926829" ref="pedigree"/>
+    <file name="2012.css" crc="4231524712" ref="2012"/>
+    <file name="attributes.css" crc="4175476420" ref="attributes"/>
+    <file name="contact.css" crc="473968082" ref="contact"/>
+    <file name="index.css" crc="302942564" ref="index"/>
+    <file name="2011.css" crc="4162311799" ref="2011"/>
+    <file name="winnings.css" crc="118551349" ref="winnings"/>
+    <file name="2014.css" crc="4155524118" ref="2014"/>
+    <file name="offspring.css" crc="477950368" ref="offspring"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:attributes:pedigree:winnings:offspring:gallery:contact:photographs:video:2010:2011:2012:2013:2014"/>
+    <file name="museutils.js" crc="3777594392" ref="index:attributes:pedigree:winnings:offspring:gallery:contact:photographs:video:2010:2011:2012:2013:2014"/>
+    <file name="jquery.musemenu.js" crc="415733523" ref="index:attributes:pedigree:winnings:offspring:gallery:contact:photographs:video:2010:2011:2012:2013:2014"/>
+    <file name="pie.js" crc="3827607177" ref="index:attributes:pedigree:winnings:offspring:gallery:contact:photographs:video:2010:2011:2012:2013:2014"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:attributes:pedigree:winnings:offspring:gallery:contact:photographs:video:2010:2011:2012:2013:2014"/>
+    <file name="webpro.js" crc="474087315" ref="photographs:2010:2011:2012:2013:2014"/>
+    <file name="musewpslideshow.js" crc="274584885" ref="photographs:2010:2011:2012:2013:2014"/>
+    <file name="jquery.museoverlay.js" crc="170414611" ref="photographs:2010:2011:2012:2013:2014"/>
+    <file name="touchswipe.js" crc="100683906" ref="photographs:2010:2011:2012:2013:2014"/>
+  </folder>
+  <folder name="images">
+    <file name="header2.jpg" crc="3801977701" ref="index:attributes:pedigree:winnings:offspring:gallery:contact:photographs:video:2010:2011:2012:2013:2014"/>
+    <file name="logo.jpg" crc="3806382577" ref="index:attributes:pedigree:winnings:offspring:gallery:contact:photographs:video:2010:2011:2012:2013:2014"/>
+    <file name="hompage.jpg" crc="15311778" ref="index"/>
+    <file name="footer.jpg" crc="4238252549" ref="index:attributes:pedigree:winnings:offspring:gallery:contact:photographs:video:2010:2011:2012:2013:2014"/>
+    <file name="tt7_1975.jpg" crc="133030621" ref="attributes"/>
+    <file name="attributes_lrg2-u950.png" crc="4056632062" ref="attributes"/>
+    <file name="vsp_8027-crop-u940.jpg" crc="3850131425" ref="attributes"/>
+    <file name="pedegreechart.jpg" crc="428918650" ref="pedigree"/>
+    <file name="2_0358aa.jpg" crc="450260974" ref="pedigree"/>
+    <file name="c2m_7689-for-ad.jpg" crc="4032789980" ref="winnings"/>
+    <file name="c10-60-142_web.jpg" crc="393007877" ref="winnings"/>
+    <file name="cquito2009.jpg" crc="8753082" ref="winnings"/>
+    <file name="argento1-crop-u8566.jpg" crc="126491066" ref="offspring"/>
+    <file name="rgf accolade filly 2013-crop-u8568.jpg" crc="4077741688" ref="offspring"/>
+    <file name="mcs_0660-1-crop-u8572.jpg" crc="74478914" ref="offspring"/>
+    <file name="cmehead189x210.jpg" crc="398816657" ref="offspring"/>
+    <file name="img_0535-crop-u8592.jpg" crc="4271975750" ref="offspring"/>
+    <file name="cquitophoto.jpg" crc="4284999713" ref="gallery"/>
+    <file name="videoclip-crop-u4336.jpg" crc="408252084" ref="gallery"/>
+    <file name="2_0351-crop-u2321.jpg" crc="341097330" ref="contact"/>
+    <file name="cquito_a.jpg" crc="4005777966" ref="photographs"/>
+    <file name="blank.gif" crc="4208392903" ref="photographs:2010:2011:2012:2013:2014"/>
+    <file name="cquito_c.jpg" crc="4230470389" ref="photographs"/>
+    <file name="cquito_b.jpg" crc="4068466349" ref="photographs"/>
+    <file name="cquito_a2.jpg" crc="4045734662" ref="photographs"/>
+    <file name="cquito_b2.jpg" crc="491004148" ref="photographs"/>
+    <file name="2_0360aa-crop-u4420.jpg" crc="4015426223" ref="photographs"/>
+    <file name="cquito_a59x47.jpg" crc="3965506654" ref="photographs"/>
+    <file name="cquito_c59x47.jpg" crc="4125855565" ref="photographs"/>
+    <file name="cquito_b-crop-u3960.jpg" crc="394842516" ref="photographs"/>
+    <file name="cquito_a63x42.jpg" crc="4219643326" ref="photographs"/>
+    <file name="cquito_b-crop-u4000.jpg" crc="268377877" ref="photographs"/>
+    <file name="2_0360aa63x42.jpg" crc="81924364" ref="photographs"/>
+    <file name="loading.gif" crc="3815509949" ref="photographs:2010:2011:2012:2013:2014"/>
+    <file name="dsc_1721.jpg" crc="479112930" ref="photographs"/>
+    <file name="outdoo_2009a1.jpg" crc="155661885" ref="photographs"/>
+    <file name="outdoo_2009b.jpg" crc="4109501216" ref="photographs"/>
+    <file name="outdoo_2009c.jpg" crc="299063293" ref="photographs"/>
+    <file name="outdoo_2009d.jpg" crc="170927291" ref="photographs"/>
+    <file name="margo_a-crop-u4471.jpg" crc="3761574475" ref="photographs"/>
+    <file name="outdoo_2009e.jpg" crc="520625536" ref="photographs"/>
+    <file name="outdoorsb.jpg" crc="3803578555" ref="photographs"/>
+    <file name="outdoorsc.jpg" crc="296246229" ref="photographs"/>
+    <file name="outdoorsa.jpg" crc="4121635829" ref="photographs"/>
+    <file name="2a_0820.jpg" crc="266658403" ref="photographs"/>
+    <file name="2_0807.jpg" crc="4040626577" ref="photographs"/>
+    <file name="2_0823.jpg" crc="3905621213" ref="photographs"/>
+    <file name="dsc_172159x44.jpg" crc="306555708" ref="photographs"/>
+    <file name="outdoo_2009a163x42.jpg" crc="4199669974" ref="photographs"/>
+    <file name="outdoo_2009b63x42.jpg" crc="148190159" ref="photographs"/>
+    <file name="outdoo_2009c63x42.jpg" crc="279881702" ref="photographs"/>
+    <file name="outdoo_2009d63x42.jpg" crc="297929854" ref="photographs"/>
+    <file name="margo_a59x48.jpg" crc="3862490413" ref="photographs"/>
+    <file name="outdoo_2009e-crop-u4085.jpg" crc="270396212" ref="photographs"/>
+    <file name="outdoorsb-crop-u4133.jpg" crc="3998751709" ref="photographs"/>
+    <file name="outdoorsc63x42.jpg" crc="3842414399" ref="photographs"/>
+    <file name="outdoorsa63x42.jpg" crc="372570614" ref="photographs"/>
+    <file name="2a_08202.jpg" crc="4067274279" ref="photographs"/>
+    <file name="2_080763x42.jpg" crc="178033322" ref="photographs"/>
+    <file name="2_082363x42.jpg" crc="3897058757" ref="photographs"/>
+    <file name="91t_8072.jpg" crc="4038651064" ref="photographs:video"/>
+    <file name="indoors2010a.jpg" crc="3803522727" ref="photographs"/>
+    <file name="indoors2010b.jpg" crc="200177156" ref="photographs"/>
+    <file name="indoors2010c.jpg" crc="274702437" ref="photographs"/>
+    <file name="indoors2010d.jpg" crc="152205800" ref="photographs"/>
+    <file name="indoors2010e.jpg" crc="101151440" ref="photographs"/>
+    <file name="indoors2010f.jpg" crc="4003536777" ref="photographs"/>
+    <file name="indoors2010g.jpg" crc="4214382738" ref="photographs"/>
+    <file name="indoors2010a63x42.jpg" crc="353716821" ref="photographs"/>
+    <file name="indoors2010b63x42.jpg" crc="4139345669" ref="photographs"/>
+    <file name="indoors2010c63x42.jpg" crc="109815461" ref="photographs"/>
+    <file name="indoors2010d63x42.jpg" crc="526521464" ref="photographs"/>
+    <file name="indoors2010e63x42.jpg" crc="227081173" ref="photographs"/>
+    <file name="indoors2010f-crop-u4250.jpg" crc="4057882569" ref="photographs"/>
+    <file name="indoors2010g63x42.jpg" crc="4257806266" ref="photographs"/>
+    <file name="offspring_2010_01.jpg" crc="9985514" ref="2010"/>
+    <file name="offspring_2010_02.jpg" crc="327057994" ref="2010"/>
+    <file name="offspring_2010_03.jpg" crc="358766487" ref="2010"/>
+    <file name="offspring_2010_07.jpg" crc="199959816" ref="2010"/>
+    <file name="offspring_2010_08.jpg" crc="343407600" ref="2010"/>
+    <file name="offspring_2010_09.jpg" crc="201054119" ref="2010"/>
+    <file name="offspring_2010_0166x50.jpg" crc="331789585" ref="2010"/>
+    <file name="offspring_2010_02-crop-u8464.jpg" crc="3862161584" ref="2010"/>
+    <file name="offspring_2010_03-crop-u8466.jpg" crc="211629998" ref="2010"/>
+    <file name="offspring_2010_0766x50.jpg" crc="4036434619" ref="2010"/>
+    <file name="offspring_2010_0866x50.jpg" crc="4088922018" ref="2010"/>
+    <file name="offspring_2010_0966x50.jpg" crc="15769484" ref="2010"/>
+    <file name="cquizno_web.jpg" crc="341734847" ref="2011"/>
+    <file name="cmetrot.jpg" crc="439214141" ref="2011"/>
+    <file name="cmehead2.jpg" crc="267323397" ref="2011"/>
+    <file name="cmewalk2.jpg" crc="210444601" ref="2011"/>
+    <file name="cmewalk3.jpg" crc="123267042" ref="2011"/>
+    <file name="cmehead.jpg" crc="3977046242" ref="2011"/>
+    <file name="cmetrot66x49.jpg" crc="4202556170" ref="2011"/>
+    <file name="cmehead266x53.jpg" crc="180564052" ref="2011"/>
+    <file name="cmewalk266x56.jpg" crc="3758845713" ref="2011"/>
+    <file name="cmewalk366x50.jpg" crc="381220212" ref="2011"/>
+    <file name="cmehead-crop-u8401.jpg" crc="3968208238" ref="2011"/>
+    <file name="daybreaker_web.jpg" crc="3843175313" ref="2011"/>
+    <file name="jessie lang 342_0872.jpg" crc="4077917930" ref="2012"/>
+    <file name="hero 278_0499.jpg" crc="3778981721" ref="2012"/>
+    <file name="jessie lang 278_0084.jpg" crc="351770897" ref="2012"/>
+    <file name="jessie lang 278_0301.jpg" crc="3917103833" ref="2012"/>
+    <file name="jessie lang 342_0387.jpg" crc="405905876" ref="2012"/>
+    <file name="jessie lang 342_0858-crop-u9366.jpg" crc="28981906" ref="2012"/>
+    <file name="jessie lang 342_087273x48.jpg" crc="504716590" ref="2012"/>
+    <file name="hero 278_049973x48.jpg" crc="514749017" ref="2012"/>
+    <file name="jessie lang 278_008473x48.jpg" crc="3947244873" ref="2012"/>
+    <file name="jessie lang 278_030173x48.jpg" crc="3968625612" ref="2012"/>
+    <file name="jessie lang 342_038773x48.jpg" crc="409045474" ref="2012"/>
+    <file name="jessie lang 342_0858-crop-u9369.jpg" crc="3759937543" ref="2012"/>
+    <file name="guinevere.jpg" crc="4090745356" ref="2012"/>
+    <file name="gwen-5-months-2.jpg" crc="4102509742" ref="2012"/>
+    <file name="gwen-5-months-in-paddock-2.jpg" crc="4286542642" ref="2012"/>
+    <file name="gwen-5-months-in-paddock.jpg" crc="4060205566" ref="2012"/>
+    <file name="gwen-5-months.jpg" crc="4136822110" ref="2012"/>
+    <file name="guinevere66x48.jpg" crc="3973075412" ref="2012"/>
+    <file name="gwen-5-months-266x51.jpg" crc="4162007986" ref="2012"/>
+    <file name="gwen-5-months-in-paddock-2-crop-u8227.jpg" crc="439842622" ref="2012"/>
+    <file name="gwen-5-months-in-paddock66x50.jpg" crc="4140846134" ref="2012"/>
+    <file name="gwen-5-months66x50.jpg" crc="36717530" ref="2012"/>
+    <file name="highilluczion1_web.jpg" crc="364648252" ref="2012"/>
+    <file name="highilluczion2_web.jpg" crc="218973059" ref="2012"/>
+    <file name="highilluczion3_web.jpg" crc="4148777932" ref="2012"/>
+    <file name="highilluczion1_web66x54.jpg" crc="227858222" ref="2012"/>
+    <file name="highilluczion2_web66x52.jpg" crc="4001347938" ref="2012"/>
+    <file name="highilluczion3_web66x58.jpg" crc="4224673846" ref="2012"/>
+    <file name="wyoming1_web.jpg" crc="452384739" ref="2012"/>
+    <file name="wyoming2_web.jpg" crc="277920354" ref="2012"/>
+    <file name="wyoming3_web.jpg" crc="397051708" ref="2012"/>
+    <file name="wyoming4_web.jpg" crc="90029710" ref="2012"/>
+    <file name="wyoming5_web.jpg" crc="3955629674" ref="2012"/>
+    <file name="wyoming1_web-crop-u8285.jpg" crc="291514282" ref="2012"/>
+    <file name="wyoming2_web66x57.jpg" crc="419709662" ref="2012"/>
+    <file name="wyoming3_web66x52.jpg" crc="276104131" ref="2012"/>
+    <file name="wyoming4_web66x53.jpg" crc="4180787260" ref="2012"/>
+    <file name="wyoming5_web66x52.jpg" crc="3818389222" ref="2012"/>
+    <file name="tinasboy.jpg" crc="4199407346" ref="2012"/>
+    <file name="kenzington_web.jpg" crc="4110330624" ref="2012"/>
+    <file name="kenningston1.jpg" crc="131286880" ref="2012"/>
+    <file name="kenningston2.jpg" crc="42790865" ref="2012"/>
+    <file name="kenningston3.jpg" crc="3988586737" ref="2012"/>
+    <file name="kenzington_web66x50.jpg" crc="177993056" ref="2012"/>
+    <file name="kenningston166x49.jpg" crc="280548422" ref="2012"/>
+    <file name="kenningston266x51.jpg" crc="433233602" ref="2012"/>
+    <file name="kenningston366x49.jpg" crc="495737185" ref="2012"/>
+    <file name="jump1.jpg" crc="362011379" ref="2013"/>
+    <file name="jump3.jpg" crc="3873911943" ref="2013"/>
+    <file name="jump2.jpg" crc="212346934" ref="2013"/>
+    <file name="jump5.jpg" crc="365496438" ref="2013"/>
+    <file name="jump6.jpg" crc="3831255529" ref="2013"/>
+    <file name="jump4.png" crc="3827253649" ref="2013"/>
+    <file name="jump166x49.jpg" crc="4121951186" ref="2013"/>
+    <file name="jump366x49.jpg" crc="209849731" ref="2013"/>
+    <file name="jump266x49.jpg" crc="525298134" ref="2013"/>
+    <file name="jump566x49.jpg" crc="3931728626" ref="2013"/>
+    <file name="jump666x49.jpg" crc="4085956233" ref="2013"/>
+    <file name="jump466x49.png" crc="421401585" ref="2013"/>
+    <file name="rgf-accolade1.jpg" crc="41625605" ref="2013"/>
+    <file name="rgf accolade filly side view 2013.jpg" crc="4137241289" ref="2013"/>
+    <file name="rgf-accolade1-crop-u7796.jpg" crc="4111822360" ref="2013"/>
+    <file name="rgf-accolade2.jpg" crc="3791424134" ref="2013"/>
+    <file name="cmore_a.jpg" crc="3911843947" ref="2013"/>
+    <file name="cmore_b.jpg" crc="3830499421" ref="2013"/>
+    <file name="cmore_c.jpg" crc="3885908007" ref="2013"/>
+    <file name="cmore_a-crop-u7832.jpg" crc="464118429" ref="2013"/>
+    <file name="cmore_b-crop-u7830.jpg" crc="210157726" ref="2013"/>
+    <file name="cmore_c66x50.jpg" crc="3877342091" ref="2013"/>
+    <file name="naquita.jpg" crc="416095748" ref="2013"/>
+    <file name="c u at the top -utedge- 2013.jpg" crc="384427877" ref="2013"/>
+    <file name="tony-crop-u7773.jpg" crc="499372811" ref="2013"/>
+    <file name="novalee.jpg" crc="3841910568" ref="2013"/>
+    <file name="novalee_1.jpg" crc="295857359" ref="2013"/>
+    <file name="novaleec2-crop-u7724.jpg" crc="229838129" ref="2013"/>
+    <file name="novaleec3.jpg" crc="395678264" ref="2013"/>
+    <file name="novalee_4.jpg" crc="4218611004" ref="2013"/>
+    <file name="novaleec5-crop-u7726.jpg" crc="21517759" ref="2013"/>
+    <file name="novalee_6.jpg" crc="3843226038" ref="2013"/>
+    <file name="novalee-crop-u7741.jpg" crc="357500741" ref="2013"/>
+    <file name="novalee_1-crop-u7743.jpg" crc="3833517450" ref="2013"/>
+    <file name="novaleec2-crop-u7747.jpg" crc="221229035" ref="2013"/>
+    <file name="novaleec3-crop-u7739.jpg" crc="3882238975" ref="2013"/>
+    <file name="novalee_4-crop-u7745.jpg" crc="3929220197" ref="2013"/>
+    <file name="novaleec5-crop-u7737.jpg" crc="335690583" ref="2013"/>
+    <file name="novalee_6-crop-u7749.jpg" crc="402358060" ref="2013"/>
+    <file name="argento1-crop-u7680.jpg" crc="288819342" ref="2014"/>
+    <file name="argento2-crop-u7689.jpg" crc="272412301" ref="2014"/>
+    <file name="argento3-crop-u7698.jpg" crc="59247372" ref="2014"/>
+    <file name="argento1-crop-u7683.jpg" crc="4269430446" ref="2014"/>
+    <file name="argento273x48.jpg" crc="3856974034" ref="2014"/>
+    <file name="argento3-crop-u7701.jpg" crc="369463198" ref="2014"/>
+    <file name="ophelya2.jpg" crc="284983948" ref="2014"/>
+    <file name="ophelya1.jpg" crc="118180426" ref="2014"/>
+    <file name="ophelya3.jpg" crc="491290943" ref="2014"/>
+    <file name="ophelya266x50.jpg" crc="36820731" ref="2014"/>
+    <file name="ophelya1-crop-u7635.jpg" crc="108104139" ref="2014"/>
+    <file name="ophelya3-crop-u7637.jpg" crc="4243412241" ref="2014"/>
+    <file name="img_0617-crop-u8502.jpg" crc="3787965801" ref="2010"/>
+    <file name="img_0621-crop-u8506.jpg" crc="3887494307" ref="2010"/>
+    <file name="img_0617-crop-u8472.jpg" crc="61348652" ref="2010"/>
+    <file name="img_0621-crop-u8470.jpg" crc="4058556988" ref="2010"/>
+  </folder>
+  <file name="index.html" crc="3838990489" mt="1422138333563" redirect="true"/>
+  <file name="attributes.html" crc="3776098250" mt="1422138333564" redirect="true"/>
+  <file name="pedigree.html" crc="3947086485" mt="1422138333564" redirect="true"/>
+  <file name="winnings.html" crc="416979661" mt="1422143298730" redirect="true"/>
+  <file name="offspring.html" crc="393590596" mt="1422138799590" redirect="true"/>
+  <file name="gallery.html" crc="4171407832" mt="1422138333566" redirect="true"/>
+  <file name="contact.html" crc="4132514270" mt="1422139005833" redirect="true"/>
+  <file name="photographs.html" crc="4160590874" mt="1422138333567" redirect="true"/>
+  <file name="video.html" crc="125508014" mt="1422138333567" redirect="true"/>
+  <file name="2010.html" crc="3838467555" mt="1422143745684" redirect="true"/>
+  <file name="2011.html" crc="3988169440" mt="1422138857111" redirect="true"/>
+  <file name="2012.html" crc="496864159" mt="1422143302093" redirect="true"/>
+  <file name="2013.html" crc="79961139" mt="1422143300410" redirect="true"/>
+  <file name="2014.html" crc="4229907305" mt="1422138935991" redirect="true"/>
+</manifest>
